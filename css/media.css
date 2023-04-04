@@ -163,6 +163,9 @@
         padding: 0;
         text-align: center;
     }
+    .reviews {
+	display: none;
+    }
     .footer__top {
         flex-direction: column;
         align-items: center;
